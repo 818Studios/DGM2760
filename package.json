@@ -4,6 +4,7 @@
   "description": "Web Languages I @ Utah Valley University",
   "main": "index.js",
   "dependencies": {
+    "jshint": "^2.9.7",
     "jslint": "^0.12.0"
   },
   "devDependencies": {},
