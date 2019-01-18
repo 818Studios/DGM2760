@@ -8,7 +8,10 @@
             "label": "Less Compile",
             "type": "shell",
             "command": "lessc LESS/styles.less CSS/styles.css",
-            "group": "build"
+            "group": "build",
+            "problemMatcher": [
+                "$lessc"
+            ]
         }
     ]
 }
