@@ -170,10 +170,20 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
+header {
+  background-image: url(../Images/bed1200.jpg);
+  max-height: 400px;
+}
+header h1 {
+  font-size: 36px;
+}
+header h2 {
+  font-size: 24px;
+}
 nav a {
   text-decoration: none;
   display: inline-block;
-  padding: 0.5em 1em;
+  padding: .5em 1em;
 }
 .clearfix::after {
   content: "";
